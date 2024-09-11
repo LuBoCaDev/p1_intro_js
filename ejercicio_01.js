@@ -1,3 +1,4 @@
+console.log('Ejercicio 1')
 /*
 Ejercicio 1
 Crea un archivo ejercicio1.js que tenga un objeto llamado usuario con los siguientes campos:
@@ -10,7 +11,6 @@ Crea un archivo ejercicio1.js que tenga un objeto llamado usuario con los siguie
 En este archivo queremos mostrar por pantalla la fecha de inicio del módulo de react del
     objeto que hemos creado anteriormente.
  */
-console.log('Ejercicio 1')
 
 const usuario = {
     nombre: 'Lucas',
