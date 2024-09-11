@@ -7,9 +7,10 @@ Ejercicios:
 https://github.com/KeepCodingWeb17/intro-js/blob/main/Exercise_web17.pdf
 
  Info  tener en cuenta:
-- Práctica dividida en un fichero por cada ejercicio. Primero aparecen los enunciados y el ejercicio se desarrolla a continuación.
--
+- Práctica dividida en un archivo por cada ejercicio. Primero aparecen los enunciados y el ejercicio se desarrolla a continuación.
+- En el caso del ejercicio 2, se ha creaado el archivo bug.js ya que así lo indica explícitamente el enunciado
 
 Log:
 - 11 Sep'04: Apertura de repositorio. creación de los ficheros de cada ejercicio con su enunciado. Realización de ejercicio 1.
--
+- 11 Sep'04: Realización de ejercicio 2
+- 
