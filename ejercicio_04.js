@@ -1,3 +1,4 @@
+console.log('Ejercicio 4')
 /*
 Ejercicio 4 Transformaciones con map y filter
 
@@ -60,3 +61,5 @@ Hay que crear un archivo transform.js con la solución. Este archivo tiene que t
 que nos retornen los valores correctos. NO USAR FOR NI WHILE. Se trata de un ejercicio para
 practicar el uso de map y filter."
 */
+
+console.log('Dado que el enunciado así lo indica explícitamente, resuelvo el ejercicio en el archivo transform.js')
