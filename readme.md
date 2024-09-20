@@ -18,4 +18,4 @@ Log:
 - 12 Sep'24: Realización de ejercicio 3.2 y 3.3
 - 14 Sep'24: Realización de ejercicio 4
 - 17 Sep'24: Realización de ejercicio 5
--
+- 20 Sep'24: Realización de ejercicio 6
